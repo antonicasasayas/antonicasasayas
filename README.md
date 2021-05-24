@@ -7,21 +7,17 @@
   <br>
   🎓 Soon i'll begin to walk the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.
   <br>
-  
-  
   💻 I love writing code and learn anything about it.
   <br>
   📚 I’m currently learning Web Development. HTML, CSS and JavaScript. Also learning NodeJS, ExpressJS and MongoDB. 
   <br>
-  
-  <br>
   📫 How to reach me: <a href="mailto: antoni.casasayas@gmail.com">antoni.casasayas@gmail.com</a>
   <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/paurodriguezmolina/" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"> LinkedIn </a></code>
+    <code><a href="https://www.linkedin.com/in/antonicasasayas/" title="LinkedIn Profile"><img width="22" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506336/Personal/Github%20front%20readme/linkedin_wzkegb.svg"> LinkedIn </a></code>
   </h5>
 </p>
 
-<hr>
+
 
 
 <hr>
