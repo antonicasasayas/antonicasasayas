@@ -39,7 +39,8 @@
   <img title="Visual Studio Code" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/vscode_b9dlo8.svg">
   
 </p>
-
+<hr>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <hr>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
