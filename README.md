@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello, <a href="https://github.com/antonicasasayas" title="Profile" target="_blank">I'm Toni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center">Hello, <a href="https://github.com/antonicasasayas" title="Profile" target="_blank">I'm Antoni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <br>
 <p align="center">
   Hi, I'm Antoni Casasayas, a 21-year-old JavaScript enthusiast.
