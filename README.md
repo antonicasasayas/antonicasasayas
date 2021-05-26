@@ -2,7 +2,7 @@
 <h3 align="center">Hello, <a href="https://github.com/antonicasasayas" title="Profile" target="_blank">I'm Toni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <br>
 <p align="center">
-  Hi, I'm Antoni Casasayas, a MERN Full-Stack Developer.
+  Hi, I'm Antoni Casasayas, a 21-year-old JavaScript enthusiast.
   <br>
   <br>
   🎓 Soon i'll begin to walk the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.
