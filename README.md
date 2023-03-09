@@ -2,14 +2,14 @@
 <h3 align="center">Hello, <a href="https://github.com/antonicasasayas" title="Profile" target="_blank">I'm Antoni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <br>
 <p align="center">
-  Hi, I'm Antoni Casasayas, a 21-year-old JavaScript enthusiast.
+  Hi, I'm Antoni Casasayas, a 23-year-old React & Solidity developer.
   <br>
   <br>
-  🎓 Soon i'll begin to walk the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.
+  🎓In 2021, I walked the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.
   <br>
-  💻 I love writing code and learn anything about it.
+  💻 Coding is my passion and my lifestyle.
   <br>
-  📚 I’m currently learning Web Development. HTML, CSS and JavaScript. Also learning NodeJS, ExpressJS and MongoDB. 
+  📚 I’m currently learning Solidity and everything about the Ethereum blockchain, smart contracts and decentralized apps.
   <br>
   📫 How to reach me: <a href="mailto: antoni.casasayas@gmail.com">antoni.casasayas@gmail.com</a>
   <h5 align="center">
